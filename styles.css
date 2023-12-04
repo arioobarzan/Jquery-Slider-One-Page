@@ -1,0 +1,28 @@
+h1{
+    color:red;
+    text-align: left;
+}
+.para{
+    font-family: calibri, 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: 25px;
+    text-align: justify;
+}
+#a209{
+    color:pink;
+}
+.tbl{
+    width: 400px;
+    height: 300px;
+    margin: 0 auto;
+}
+.img{
+    width:200px;
+}
+.big-img{
+    margin: 0 auto;
+    border:  3px pink dashed;
+    border-radius: 15px;
+}
+.pix{
+    text-align: center;
+}
